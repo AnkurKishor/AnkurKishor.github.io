@@ -1,0 +1,130 @@
+/* The navbar section starts here */
+.navbar{
+    padding-top:2vh;
+    padding-bottom:2vh;
+}
+.navbar-brand{
+    font-family: 'Quicksand', sans-serif;
+    color:rgb(56, 102, 235) !important;
+    font-weight: bolder;
+    letter-spacing:0.5vh;
+    padding-left:10vh;
+}
+.collapse{
+    padding-right:10vh;
+}
+.nav-item{
+    padding-left:1vh;
+    padding-right: 1vh;
+}
+/* The navbar section ends here */
+
+.first{
+    padding:;
+}
+#lottie{
+    height:30vw;
+    width: 40vw;
+    padding: 0px;
+}
+.png{
+    height:3vw;
+    width:3vw;
+}
+.second{
+    padding-bottom:7vh;
+}
+.heading{
+    padding-top:8vh;
+    padding-bottom:5vh;
+}
+.content{
+    padding-top:3vh;
+    padding-bottom: 3vh;
+}
+.third{
+    background-color: #f1f4f8;
+}
+.ceo{
+    border-radius: 100vh;
+    height:25vh;
+    width:25vh;
+}
+.pad{
+    padding-top:3vh;
+    padding-bottom:5vh;
+}
+.line{
+    border-right:1px solid;
+}
+.four{
+    padding-bottom:5vh;
+}
+.jpg-big{
+    height:30vh;
+    width:67vh;
+}
+.jpg-small{
+    height: 22vh;
+    width: 33vh;
+}
+.padd{
+    padding:0.5vh;
+}
+.fifth{
+    background-color: #f1f4f8;
+    padding-bottom: 5vh;
+}
+.form{
+    margin: 0vh;
+    width:40vh;
+    background-color: white;
+    padding-bottom: 2vh;
+    border-radius: 0.5vh;
+}
+.input{
+    border:0px;
+    border-bottom: 1px solid #b9c1c9;
+    width: 35vh;
+    height: 4vh;
+    font-family: 'Dosis', sans-serif;
+    letter-spacing: 0.3vh;
+}
+.input1{
+    border:0px;
+    border-bottom: 1px solid #b9c1c9;
+    width: 35vh;
+    height: 10vh;
+    font-family: 'Dosis', sans-serif;
+    letter-spacing: 0.3vh;
+    padding-top: 0.7vh;
+}
+.jpg{
+    width:40vh;
+    height:25vh;
+    border-radius: 0.5vh;
+}
+.foot{
+    background-color:#2b354f;
+    color:white;
+    padding-top:15vh;
+    padding-bottom: 15vh;
+}
+.foot-text{
+    font-family: 'Quicksand', sans-serif;
+    letter-spacing:0.3vh;
+    border-right: 1px solid white;
+    border-left: 1px solid white;
+    font-size: 1.5vh;
+}
+.foot-text1{
+    padding-top: 2vh;
+    color:#57BB96;
+    font-size: 2.3vh;
+}
+.foot-text2{
+    font-size:1.6vh;
+    padding-top: 3vh;
+    color:white;
+    padding-bottom: 5vh;
+}
