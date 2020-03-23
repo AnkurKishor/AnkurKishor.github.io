@@ -37,7 +37,6 @@
 #lottie{
     height:50vh;
     width: 70vh;
-    padding: 0px;
 }
 .png{
     height:6vh;
@@ -170,6 +169,7 @@
 @media only screen and (max-width: 600px) {
    .first{
        padding-top:0px;
+       padding-bottom: 3vh;
        text-align: center;
    }
    .brand{
