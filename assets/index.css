@@ -5,7 +5,6 @@
     background-color: #f1f4f8 !important;
 }
 .navbar-brand{
-    font-family: 'Quicksand', sans-serif;
     color:rgb(56, 102, 235) !important;
     font-weight: bolder;
     letter-spacing:0.5vh;
@@ -48,9 +47,9 @@
     padding-top:8vh;
     padding-bottom: 3vh;
     letter-spacing:0.4vh;
-    font-size: 5vh;
+    font-size: 5.5vh;
     color:rgb(56, 102, 235);
-    font-family: 'Quicksand', sans-serif;
+    font-family: 'Baloo 2', cursive;
 }
 .brand-pro{
     padding-bottom:3vh;
