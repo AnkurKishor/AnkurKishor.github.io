@@ -176,9 +176,15 @@
        padding-top:5vh;
    }
    .jpg-small{
-    height:20vw;
-    width:33vw;
+    height:30vw;
+    width:60vw;
     max-width:100%;
     object-fit:cover;
+    }
+    .jpg-big{
+        height:30vw;
+        width:60vw;
+        max-width:100%;
+        object-fit:cover;
     }
   }
