@@ -51,6 +51,9 @@
 .pad1{
     padding-top:3vh;
 }
+.content2{
+    font-size: 2vh;;
+}
 
 @media only screen and (max-width: 600px) {
     .line{

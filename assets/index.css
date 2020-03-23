@@ -142,6 +142,10 @@
     height:25vh;
     border-radius: 0.5vh;
 }
+.img{
+    height:22vh;
+    width:18rem;
+}
 .foot{
     background-color:#2b354f;
     color:white;
@@ -174,7 +178,7 @@
     background-size: cover;
 }
 .color{
-    
+
 }
 
 
