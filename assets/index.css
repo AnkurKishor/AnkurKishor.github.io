@@ -116,7 +116,7 @@
 .form{
     margin: 0vh;
     width:40vh;
-    background-color: white;
+    background-color: #f1f4f8;
     padding-bottom: 2vh;
     border-radius: 0.5vh;
 }
@@ -175,4 +175,10 @@
    .brand{
        padding-top:5vh;
    }
+   .jpg-small{
+    height:20vw;
+    width:33vw;
+    max-width:100%;
+    object-fit:cover;
+    }
   }
