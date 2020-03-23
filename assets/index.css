@@ -166,6 +166,18 @@
     color:white;
     padding-bottom: 5vh;
 }
+.back{
+    background: url("brand.png");
+    height:20vw;
+    width:33vw;
+    background-position: center;
+    background-size: cover;
+}
+.color{
+    
+}
+
+
 @media only screen and (max-width: 600px) {
    .first{
        padding-top:0px;
