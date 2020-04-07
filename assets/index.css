@@ -5,13 +5,14 @@
     background-color: #232323 !important;
 }
 .navbar-brand{
-    color:rgb(56, 102, 235) !important;
+    color:white!important;
     font-weight: bolder;
     letter-spacing:0.5vh;
     font-family: 'Baloo 2', cursive;
     font-size:2.5vh;
 }
-.collapse{
+.navbar-toggler{
+    background-color: white !important;
 }
 .nav-item{
     padding-left:1vh;
